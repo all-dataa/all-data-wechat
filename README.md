@@ -1,6 +1,3 @@
-以下是 `all-data-wechat` 项目的 **README.md** 文件内容，涵盖了项目简介、功能、使用方法、配置说明等内容：
-
----
 
 # All Data WeChat
 
