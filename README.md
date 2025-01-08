@@ -1,5 +1,7 @@
 
 # All Data WeChat
+- [2025-01-08] 由网友指出，wechaty 走的协议容易被微信警告，网络协议的方式仍然走不通，感兴趣的可以考虑用模拟 IPAD 登陆的方式 或者 通过 COW (chatgpt-on-wechat:https://github.com/zhayujie/chatgpt-on-wechat)
+- [2025-01-08] 感兴趣深入研究的，可以通过 wechaty 社区找到Juzi BOT，puppet_padplus 提供 token 避免被警告封号
 
 ![Node.js](https://img.shields.io/badge/Node.js-v16+-green)
 ![Wechaty](https://img.shields.io/badge/Wechaty-v1.0+-blue)
